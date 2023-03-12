@@ -1,1 +1,1 @@
-Primeiro Projeto feito em HTML, CSS e JAvaScript
+Primeiro Projeto feito em HTML, CSS e JavaScript
